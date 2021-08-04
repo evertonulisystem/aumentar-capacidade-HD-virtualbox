@@ -7,10 +7,10 @@ Tem dúvida?, confira o video:
 #REQUISITOS#
 
 1- Ter o caminho de instalação do VirtualBox. No meu caso foi: 
-# C:\Program Files\Oracle\VirtualBox 
+## C:\Program Files\Oracle\VirtualBox ##
 
 2- Ter o caminho da maquina virtual a ser alterada
-# C:\Users\Everton\VirtualBox VMs\Win10\Win10.vdi 
+## C:\Users\Everton\VirtualBox VMs\Win10\Win10.vdi ##
 
 3- Acessar o CMD do Windows
 
