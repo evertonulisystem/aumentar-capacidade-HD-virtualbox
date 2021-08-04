@@ -4,7 +4,8 @@ Aumentar área de armazenamento de um hd com o sistema operacional instalado
 Aqui está o código a ser utilizado na ação de aumentar a capacidade de seu HD, ja com o Sistema operacional instalado.
 Tem dúvida?, confira o video: 
 
-REQUISITOS:
+#REQUISITOS#
+
 1- Ter o caminho de instalação do VirtualBox. No meu caso foi: 
 # C:\Program Files\Oracle\VirtualBox 
 
@@ -29,7 +30,7 @@ Obs.: Esse valor corresponde a 30GB.
 9-Linha completa ficará:
 C:\Program Files\Oracle\VirtualBox\vboxmanage modifyhd "C:\Users\Everton\VirtualBox VMs\Win10\Win10.vdi" --resize 30000
 
-10- Pressione <ENTER>
+10- Pressione ###ENTER###
         
 11- A saída deverá ser:
 0% ...10%...20%...30%...40%...50%...60%...70%...80%...90%...100%
