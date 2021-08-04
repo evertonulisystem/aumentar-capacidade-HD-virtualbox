@@ -17,7 +17,7 @@ Tem dúvida?, confira o video:
 4- Entrar com o comando CD e colar o endereço que copiou no passo 1
 
 5- Entrar com o comando
-##vboxmanage modifyhd##
+## vboxmanage modifyhd ##
 
 6- Coloque "aspas duplas", após ter digitado o item 5
 
